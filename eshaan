@@ -1,0 +1,5 @@
+rm -r -f ~/ghsetup/E-MERLIN
+cp ~/Merlin ~/ghsetup/E-MERLIN
+git add --all
+git commit -m "avogadros numero"
+git push
