@@ -1,3 +1,4 @@
+cd ~/ghsetup
 rm -r -f ~/ghsetup/E-MERLIN
 cp -r ~/Merlin ~/ghsetup/E-MERLIN
 touch ~/ghsetup/E-MERLIN/bug
