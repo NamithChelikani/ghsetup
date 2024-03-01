@@ -1,5 +1,6 @@
 rm -r -f ~/ghsetup/E-MERLIN
 cp -r ~/Merlin ~/ghsetup/E-MERLIN
+touch ~/ghsetup/E-MERLIN/bug
 git add --all
 git commit -m "avogadros numero"
 git push
