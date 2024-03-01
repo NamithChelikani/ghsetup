@@ -1,3 +1,3 @@
 git add --all
-git commit -a
+git commit -m "avogadros numero"
 git push
